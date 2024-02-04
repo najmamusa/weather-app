@@ -27,7 +27,7 @@ This web app allows users to check the current weather and a 5-day weather forec
 ## Getting Started
 
 Access the web application via the deployed link below:
-- 
+- https://najmamusa.github.io/weather-app/
 
 ## Image:
 ![Screenshot 2024-02-04 at 04 38 08](https://github.com/najmamusa/weather-app/assets/110435863/810d1ffe-04ae-46ab-8f3d-78b72b424425)
